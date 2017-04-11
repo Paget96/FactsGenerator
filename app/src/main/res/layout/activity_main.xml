@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.alex.alex.MainActivity"
+    android:background="@drawable/bg">
+
+    <TextView
+        android:layout_margin="12dp"
+        android:id="@+id/Title_Text"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/title_text"
+        android:textColor="@color/Color_White"
+        android:textSize="17sp"
+        android:padding="16dp"
+        android:textAlignment="center"
+        android:background="@color/secondaryColor"
+        android:layout_gravity="center"
+        />
+
+        <LinearLayout
+            android:id="@+id/FactLayout"
+            android:visibility="invisible"
+            android:layout_margin="16dp"
+            android:background="@color/colorPrimary"
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:weightSum="3"
+            >
+
+            <TextView
+                android:layout_weight="1"
+                android:elevation="25sp"
+                android:layout_gravity="center"
+                android:padding="15sp"
+                android:id="@+id/factTitle"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAlignment="center"
+                android:textColor="@color/Color_White"
+                android:textSize="17sp" />
+
+            <Space
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="1"/>
+
+            <TextView
+                android:elevation="25sp"
+                android:layout_gravity="center"
+                android:padding="15sp"
+                android:id="@+id/factDesc"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAlignment="center"
+                android:textColor="@color/Color_White"
+                android:textSize="17sp"
+                android:layout_weight="1"/>
+        </LinearLayout>
+
+
+    <ProgressBar
+        android:id="@+id/loading_indicator"
+        android:layout_gravity="center"
+        android:layout_width="64dp"
+        android:layout_height="64dp"
+        android:visibility="invisible"/>
+    <Button
+        android:layout_margin="12dp"
+        android:id="@+id/toSecondActivity"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/secondaryColor"
+        android:layout_gravity="bottom"
+        android:text="@string/generate_joke_button"
+        android:textColor="@color/Color_White"/>
+
+</FrameLayout>
