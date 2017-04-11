@@ -14,9 +14,7 @@
   <component name="ChangeListManager">
     <list default="true" id="48c2ab0e-ae3b-492b-bf72-0d45f9f58071" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build.gradle" afterPath="$PROJECT_DIR$/app/build.gradle" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" afterPath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" />
     </list>
     <ignored path="JokeGenerator-master.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -55,9 +53,11 @@
             <state />
           </provider>
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="44" lean-forward="false" selection-start-line="5" selection-start-column="33" selection-end-line="5" selection-end-column="44" />
-              <folding />
+            <state relative-caret-position="132">
+              <caret line="9" column="34" lean-forward="false" selection-start-line="9" selection-start-column="34" selection-end-line="9" selection-end-column="34" />
+              <folding>
+                <element signature="e#243#264#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -2204,9 +2204,9 @@
         <option value="$PROJECT_DIR$/app/src/main/res/values/colors.xml" />
         <option value="$PROJECT_DIR$/app/src/androidTest/java/com/alex/alex/ApplicationTest.java" />
         <option value="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" />
-        <option value="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
         <option value="$PROJECT_DIR$/app/src/main/res/values/strings.xml" />
         <option value="$PROJECT_DIR$/app/build.gradle" />
+        <option value="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
       </list>
     </option>
   </component>
@@ -2642,7 +2642,14 @@
       <option name="project" value="LOCAL" />
       <updated>1491941570921</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Moved app info from gradle to manifest">
+      <created>1491941858416</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1491941858416</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -2699,7 +2706,8 @@
     <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
     <MESSAGE value="Updated repositories&#10;Set compile sdk version to 25&#10;Added zipaling and shrink resources" />
     <MESSAGE value="Removed useless stuff from code&#10;Gradle updated" />
-    <option name="LAST_COMMIT_MESSAGE" value="Removed useless stuff from code&#10;Gradle updated" />
+    <MESSAGE value="Moved app info from gradle to manifest" />
+    <option name="LAST_COMMIT_MESSAGE" value="Moved app info from gradle to manifest" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
@@ -2724,7 +2732,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="9" column="34" lean-forward="false" selection-start-line="9" selection-start-column="34" selection-end-line="9" selection-end-column="34" />
-          <folding />
+          <folding>
+            <element signature="e#243#264#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -2904,7 +2914,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="9" column="34" lean-forward="false" selection-start-line="9" selection-start-column="34" selection-end-line="9" selection-end-column="34" />
-          <folding />
+          <folding>
+            <element signature="e#243#264#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -3074,9 +3086,11 @@
         <state />
       </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="44" lean-forward="false" selection-start-line="5" selection-start-column="33" selection-end-line="5" selection-end-column="44" />
-          <folding />
+        <state relative-caret-position="132">
+          <caret line="9" column="34" lean-forward="false" selection-start-line="9" selection-start-column="34" selection-end-line="9" selection-end-column="34" />
+          <folding>
+            <element signature="e#243#264#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
