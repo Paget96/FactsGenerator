@@ -10,8 +10,6 @@ android {
         applicationId "com.alex.alex"
         minSdkVersion 14
         targetSdkVersion 25
-        versionCode 1
-        versionName "1.0"
     }
     buildTypes {
         release {

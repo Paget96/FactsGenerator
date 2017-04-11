@@ -1,5 +1,7 @@
 <resources>
     <string name="app_name">Facts</string>
+    <string name="app_version">1.0</string>
+
 
     <string name="generate_joke_button">Show me a fact</string>
     <string name="title_text">/*/*/*/*/*/</string>
