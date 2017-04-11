@@ -13,7 +13,39 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="48c2ab0e-ae3b-492b-bf72-0d45f9f58071" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/android_android_25.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/animated_vector_drawable_25_3_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/appcompat_v7_25_3_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/cardview_v7_25_3_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/design_25_3_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/recyclerview_v7_25_3_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/support_annotations_25_3_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/support_compat_25_3_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/support_core_ui_25_3_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/support_core_utils_25_3_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/support_fragment_25_3_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/support_media_compat_25_3_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/support_v4_25_3_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/support_vector_drawable_25_3_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/transition_25_3_1.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/animated_vector_drawable_23_4_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/appcompat_v7_23_4_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/design_23_4_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/recyclerview_v7_23_4_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/support_annotations_23_4_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/support_v4_23_4_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/support_vector_drawable_23_4_0.xml" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/cache.properties.lock" afterPath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/cache.properties.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/fileHashes.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/fileSnapshots.bin" afterPath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/fileSnapshots.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/fileSnapshotsToTreeSnapshotsIndex.bin" afterPath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/fileSnapshotsToTreeSnapshotsIndex.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/taskArtifacts.bin" afterPath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/taskArtifacts.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/app.iml" afterPath="$PROJECT_DIR$/app/app.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build.gradle" afterPath="$PROJECT_DIR$/app/build.gradle" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/local.properties" afterPath="$PROJECT_DIR$/local.properties" />
     </list>
     <ignored path="JokeGenerator-master.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -46,29 +78,16 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="activity_main.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="22" column="10" selection-start-line="22" selection-start-column="10" selection-end-line="22" selection-end-column="10" />
-              <folding />
-            </state>
-          </provider>
-          <provider editor-type-id="android-designer2">
-            <state />
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="AndroidManifest.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="34" selection-start-line="9" selection-start-column="34" selection-end-line="9" selection-end-column="34" />
-              <folding />
-            </state>
-          </provider>
           <provider editor-type-id="android-manifest">
             <state />
+          </provider>
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="34" lean-forward="false" selection-start-line="9" selection-start-column="34" selection-end-line="9" selection-end-column="34" />
+              <folding />
+            </state>
           </provider>
         </entry>
       </file>
@@ -76,8 +95,17 @@
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/alex/alex/Fact.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="102">
-              <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-              <folding />
+              <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+              <folding>
+                <element signature="e#232#233#0" expanded="false" />
+                <element signature="e#260#261#0" expanded="false" />
+                <element signature="e#302#303#0" expanded="false" />
+                <element signature="e#336#337#0" expanded="false" />
+                <element signature="e#367#368#0" expanded="false" />
+                <element signature="e#394#395#0" expanded="false" />
+                <element signature="e#434#435#0" expanded="false" />
+                <element signature="e#466#467#0" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -86,8 +114,10 @@
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/alex/alex/FactCatalogue.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="68">
-              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-              <folding />
+              <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -95,9 +125,13 @@
       <file leaf-file-name="MainActivity.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/alex/alex/MainActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
-              <caret line="36" column="0" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
-              <folding />
+            <state relative-caret-position="459">
+              <caret line="36" column="0" lean-forward="false" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
+              <folding>
+                <element signature="imports" expanded="false" />
+                <element signature="e#1255#1256#0" expanded="false" />
+                <element signature="e#1317#1318#0" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -106,8 +140,10 @@
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/alex/alex/search.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="68">
-              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-              <folding />
+              <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -116,37 +152,41 @@
         <entry file="file://$PROJECT_DIR$/app/src/androidTest/java/com/alex/alex/ApplicationTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="51">
-              <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-              <folding />
+              <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+              <folding>
+                <element signature="imports" expanded="false" />
+                <element signature="e#203#204#0" expanded="false" />
+                <element signature="e#243#244#0" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ExampleUnitTest.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ExampleUnitTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/test/java/com/alex/alex/ExampleUnitTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+            <state relative-caret-position="153">
+              <caret line="11" column="1" lean-forward="false" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="strings.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/res/values/strings.xml">
+      <file leaf-file-name="local.properties" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/local.properties">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+            <state relative-caret-position="187">
+              <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="colors.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/res/values/colors.xml">
+      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/build.gradle">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="38" selection-start-line="14" selection-start-column="38" selection-end-line="14" selection-end-column="38" />
+            <state relative-caret-position="340">
+              <caret line="20" column="32" lean-forward="true" selection-start-line="20" selection-start-column="32" selection-end-line="20" selection-end-column="32" />
               <folding />
             </state>
           </provider>
@@ -158,10 +198,413 @@
     <option name="ROOT_SYNC" value="DONT_SYNC" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GradleExtensions">
+    <project path="$PROJECT_DIR$">
+      <sub-project>
+        <project path="$PROJECT_DIR$">
+          <extensions>
+            <ext name="ext" type="org.gradle.api.internal.plugins.DefaultExtraPropertiesExtension" />
+            <task name="projects" type="org.gradle.api.tasks.diagnostics.ProjectReportTask">Displays the sub-projects of root project 'FactsGenerator'.&lt;p&gt;&lt;i&gt;Task group: help&lt;i&gt;</task>
+            <task name="transformClassesAndResourcesWithProguardForRelease" type="com.android.build.gradle.internal.pipeline.TransformTask">&lt;i&gt;Task group: other&lt;i&gt;</task>
+            <task name="validateSigningDebugAndroidTest" type="com.android.build.gradle.internal.tasks.ValidateSigningTask">&lt;i&gt;Task group: other&lt;i&gt;</task>
+            <task name="assembleReleaseUnitTest">&lt;i&gt;Task group: other&lt;i&gt;</task>
+            <task name="prepareDebugDependencies" type="com.android.build.gradle.internal.tasks.PrepareDependenciesTask">&lt;i&gt;Task group: other&lt;i&gt;</task>
+            <task name="processReleaseJavaRes" type="org.gradle.api.tasks.Sync">&lt;i&gt;Task group: other&lt;i&gt;</task>
+            <task name="generateReleaseAssets">&lt;i&gt;Task group: other&lt;i&gt;</task>
+            <task name="lintDebug" type="com.android.build.gradle.tasks.Lint">Runs lint on the Debug build.&lt;p&gt;&lt;i&gt;Task group: verification&lt;i&gt;</task>
+            <task name="assembleDebugUnitTest">&lt;i&gt;Task group: other&lt;i&gt;</task>
+            <task name="model" type="org.gradle.api.reporting.model.ModelReport">Displays the configuration model of root project 'FactsGenerator'. [incubating]&lt;p&gt;&lt;i&gt;Task group: help&lt;i&gt;</task>
+            <task name="mockableAndroidJar" type="com.android.build.gradle.internal.tasks.MockableAndroidJarTask">Creates a version of android.jar that's suitable for unit tests.&lt;p&gt;&lt;i&gt;Task group: build&lt;i&gt;</task>
+            <task name="prepareComAndroidSupportAppcompatV72531Library" type="com.android.build.gradle.internal.tasks.PrepareLibraryTask">Prepare com.android.support:appcompat-v7:25.3.1&lt;p&gt;&lt;i&gt;Task group: other&lt;i&gt;</task>
+            <task name="tasks" type="org.gradle.api.tasks.diagnostics.TaskReportTask">Displays the tasks runnable from root project 'FactsGenerator' (some of the displayed tasks may belong to subprojects).&lt;p&gt;&lt;i&gt;Task group: help&lt;i&gt;</task>
+            <task name="compileDebugSources">&lt;i&gt;Task group: build&lt;i&gt;</task>
+            <task name="init" type="org.gradle.buildinit.tasks.InitBuild">Initializes a new Gradle build. [incubating]&lt;p&gt;&lt;i&gt;Task group: Build Setup&lt;i&gt;</task>
+            <task name="incrementalDebugJavaCompilationSafeguard" type="com.android.build.gradle.tasks.factory.IncrementalSafeguard">&lt;i&gt;Task group: other&lt;i&gt;</task>
+            <task name="prepareComAndroidSupportSupportMediaCompat2531Library" type="com.android.build.gradle.internal.tasks.PrepareLibraryTask">Prepare com.android.support:support-media-compat:25.3.1&lt;p&gt;&lt;i&gt;Task group: other&lt;i&gt;</task>
+            <task name="prepareComAndroidSupportSupportVectorDrawable2531Library" type="com.android.build.gradle.internal.tasks.PrepareLibraryTask">Prepare com.android.support:support-vector-drawable:25.3.1&lt;p&gt;&lt;i&gt;Task group: other&lt;i&gt;</task>
+            <task name="deviceCheck">Runs all device checks using Device Providers and Test Servers.&lt;p&gt;&lt;i&gt;Task group: verification&lt;i&gt;</task>
+            <task name="dependencies" type="org.gradle.api.tasks.diagnostics.DependencyReportTask">Displays all dependencies declared in root project 'FactsGenerator'.&lt;p&gt;&lt;i&gt;Task group: help&lt;i&gt;</task>
+            <task name="processDebugResources" type="com.android.build.gradle.tasks.ProcessAndroidResources">&lt;i&gt;Task group: other&lt;i&gt;</task>
+            <task name="lint" type="com.android.build.gradle.tasks.Lint">Runs lint on all variants.&lt;p&gt;&lt;i&gt;Task group: verification&lt;i&gt;</task>
+            <task name="packageDebug" type="com.android.build.gradle.tasks.PackageApplication">&lt;i&gt;Task group: other&lt;i&gt;</task>
+            <task name="compileReleaseNdk" type="com.android.build.gradle.tasks.NdkCompile">&lt;i&gt;Task group: other&lt;i&gt;</task>
+            <task name="generateDebugResources">&lt;i&gt;Task group: other&lt;i&gt;</task>
+            <task name="compileDebugJavaWithJavac" type="com.android.build.gradle.tasks.factory.AndroidJavaCompile">&lt;i&gt;Task group: other&lt;i&gt;</task>
+            <task name="buildNeeded">Assembles and tests this project and all projects it depends on.&lt;p&gt;&lt;i&gt;Task group: build&lt;i&gt;</task>
+            <task name="generateDebugAndroidTestBuildConfig" type="com.android.build.gradle.tasks.GenerateBuildConfig">&lt;i&gt;Task group: other&lt;i&gt;</task>
+            <task name="processDebugUnitTestJavaRes" type="org.gradle.api.tasks.Sync">&lt;i&gt;Task group: other&lt;i&gt;</task>
+            <task name="testReleaseUnitTest" type="com.android.build.gradle.tasks.factory.AndroidUnitTest">Run unit tests for the release build.&lt;p&gt;&lt;i&gt;Task group: verification&lt;i&gt;</task>
+            <task name="compileDebugAndroidTestShaders" type="com.android.build.gradle.tasks.ShaderCompile">&lt;i&gt;Task group: other&lt;i&gt;</task>
+            <task name="mergeDebugShaders" type="com.android.build.gradle.tasks.MergeSourceSetFolders">&lt;i&gt;Task group: other&lt;i&gt;</task>
+            <task name="transformNative_libsWithMergeJniLibsForDebugAndroidTest" type="com.android.build.gradle.internal.pipeline.TransformTask">&lt;i&gt;Task group: other&lt;i&gt;</task>
+            <task name="compileDebugAndroidTestJavaWithJavac" type="com.android.build.gradle.tasks.factory.AndroidJavaCompile">&lt;i&gt;Task group: other&lt;i&gt;</task>
+            <task name="components" type="org.gradle.api.reporting.components.ComponentReport">Displays the components produced by root project 'FactsGenerator'. [incubating]&lt;p&gt;&lt;i&gt;Task group: help&lt;i&gt;</task>
+            <task name="compileReleaseRenderscript" type="com.android.build.gradle.tasks.RenderscriptCompile">&lt;i&gt;Task group: other&lt;i&gt;</task>
+            <task name="assembleDebug">Assembles all Debug builds.&lt;p&gt;&lt;i&gt;Task group: build&lt;i&gt;</task>
+            <task name="processDebugAndroidTestManifest" type="com.android.build.gradle.tasks.ProcessTestManifest">&lt;i&gt;Task group: other&lt;i&gt;</task>
+            <task name="compileDebugUnitTestJavaWithJavac" type="com.android.build.gradle.tasks.factory.AndroidJavaCompile">&lt;i&gt;Task group: other&lt;i&gt;</task>
+            <task name="prepareComAndroidSupportSupportCoreUtils2531Library" type="com.android.build.gradle.internal.tasks.PrepareLibraryTask">Prepare com.android.support:support-core-utils:25.3.1&lt;p&gt;&lt;i&gt;Task group: other&lt;i&gt;</task>
+            <task name="prepareComAndroidSupportSupportV42531Library" type="com.android.build.gradle.internal.tasks.PrepareLibraryTask">Prepare com.android.support:support-v4:25.3.1&lt;p&gt;&lt;i&gt;Task group: other&lt;i&gt;</task>
+            <task name="transformResourcesWithMergeJavaResForReleaseUnitTest" type="com.android.build.gradle.internal.pipeline.TransformTask">&lt;i&gt;Task group: other&lt;i&gt;</task>
+            <task name="cleanIdeaModule" type="org.gradle.api.tasks.Delete">&lt;i&gt;Task group: other&lt;i&gt;</task>
+            <task name="transformClassesWithDexForDebug" type="com.android.build.gradle.internal.pipeline.TransformTask">&lt;i&gt;Task group: other&lt;i&gt;</task>
+            <task name="preDebugAndroidTestBuild">&lt;i&gt;Task group: other&lt;i&gt;</task>
+            <task name="processDebugAndroidTestJavaRes" type="org.gradle.api.tasks.Sync">&lt;i&gt;Task group: other&lt;i&gt;</task>
+            <task name="processReleaseUnitTestJavaRes" type="org.gradle.api.tasks.Sync">&lt;i&gt;Task group: other&lt;i&gt;</task>
+            <task name="prepareComAndroidSupportDesign2531Library" type="com.android.build.gradle.internal.tasks.PrepareLibraryTask">Prepare com.android.support:design:25.3.1&lt;p&gt;&lt;i&gt;Task group: other&lt;i&gt;</task>
+            <task name="uninstallRelease" type="com.android.build.gradle.internal.tasks.UninstallTask">Uninstalls the Release build.&lt;p&gt;&lt;i&gt;Task group: Install&lt;i&gt;</task>
+            <task name="compileReleaseShaders" type="com.android.build.gradle.tasks.ShaderCompile">&lt;i&gt;Task group: other&lt;i&gt;</task>
+            <task name="mergeReleaseResources" type="com.android.build.gradle.tasks.MergeResources">&lt;i&gt;Task group: other&lt;i&gt;</task>
+            <task name="prepareComAndroidSupportTransition2531Library" type="com.android.build.gradle.internal.tasks.PrepareLibraryTask">Prepare com.android.support:transition:25.3.1&lt;p&gt;&lt;i&gt;Task group: other&lt;i&gt;</task>
+            <task name="generateDebugAndroidTestSources">&lt;i&gt;Task group: other&lt;i&gt;</task>
+            <task name="prepareDebugAndroidTestDependencies" type="com.android.build.gradle.internal.tasks.PrepareDependenciesTask">&lt;i&gt;Task group: other&lt;i&gt;</task>
+            <task name="incrementalDebugAndroidTestJavaCompilationSafeguard" type="com.android.build.gradle.tasks.factory.IncrementalSafeguard">&lt;i&gt;Task group: other&lt;i&gt;</task>
+            <task name="checkReleaseManifest" type="com.android.build.gradle.internal.tasks.CheckManifest">&lt;i&gt;Task group: other&lt;i&gt;</task>
+            <task name="compileDebugAndroidTestSources">&lt;i&gt;Task group: build&lt;i&gt;</task>
+            <task name="mergeReleaseJniLibFolders" type="com.android.build.gradle.tasks.MergeSourceSetFolders">&lt;i&gt;Task group: other&lt;i&gt;</task>
+            <task name="prepareReleaseDependencies" type="com.android.build.gradle.internal.tasks.PrepareDependenciesTask">&lt;i&gt;Task group: other&lt;i&gt;</task>
+            <task name="processReleaseResources" type="com.android.build.gradle.tasks.ProcessAndroidResources">&lt;i&gt;Task group: other&lt;i&gt;</task>
+            <task name="deviceAndroidTest">Installs and runs instrumentation tests using all Device Providers.&lt;p&gt;&lt;i&gt;Task group: verification&lt;i&gt;</task>
+            <task name="mergeDebugAndroidTestAssets" type="com.android.build.gradle.tasks.MergeSourceSetFolders">&lt;i&gt;Task group: other&lt;i&gt;</task>
+            <task name="processReleaseManifest" type="com.android.build.gradle.tasks.MergeManifests">&lt;i&gt;Task group: other&lt;i&gt;</task>
+            <task name="uninstallDebugAndroidTest" type="com.android.build.gradle.internal.tasks.UninstallTask">Uninstalls the android (on device) tests for the Debug build.&lt;p&gt;&lt;i&gt;Task group: Install&lt;i&gt;</task>
+            <task name="dependencyInsight" type="org.gradle.api.tasks.diagnostics.DependencyInsightReportTask">Displays the insight into a specific dependency in root project 'FactsGenerator'.&lt;p&gt;&lt;i&gt;Task group: help&lt;i&gt;</task>
+            <task name="generateReleaseSources">&lt;i&gt;Task group: other&lt;i&gt;</task>
+            <task name="incrementalReleaseUnitTestJavaCompilationSafeguard" type="com.android.build.gradle.tasks.factory.IncrementalSafeguard">&lt;i&gt;Task group: other&lt;i&gt;</task>
+            <task name="preReleaseBuild">&lt;i&gt;Task group: other&lt;i&gt;</task>
+            <task name="assemble">Assembles all variants of all applications and secondary packages.&lt;p&gt;&lt;i&gt;Task group: build&lt;i&gt;</task>
+            <task name="cleanIdeaProject" type="org.gradle.api.tasks.Delete">&lt;i&gt;Task group: other&lt;i&gt;</task>
+            <task name="incrementalDebugUnitTestJavaCompilationSafeguard" type="com.android.build.gradle.tasks.factory.IncrementalSafeguard">&lt;i&gt;Task group: other&lt;i&gt;</task>
+            <task name="incrementalReleaseJavaCompilationSafeguard" type="com.android.build.gradle.tasks.factory.IncrementalSafeguard">&lt;i&gt;Task group: other&lt;i&gt;</task>
+            <task name="help" type="org.gradle.configuration.Help">Displays a help message.&lt;p&gt;&lt;i&gt;Task group: help&lt;i&gt;</task>
+            <task name="compileReleaseUnitTestSources">&lt;i&gt;Task group: build&lt;i&gt;</task>
+            <task name="installDebugAndroidTest" type="com.android.build.gradle.internal.tasks.InstallVariantTask">Installs the android (on device) tests for the Debug build.&lt;p&gt;&lt;i&gt;Task group: Install&lt;i&gt;</task>
+            <task name="mergeDebugAssets" type="com.android.build.gradle.tasks.MergeSourceSetFolders">&lt;i&gt;Task group: other&lt;i&gt;</task>
+            <task name="prepareComAndroidSupportRecyclerviewV72531Library" type="com.android.build.gradle.internal.tasks.PrepareLibraryTask">Prepare com.android.support:recyclerview-v7:25.3.1&lt;p&gt;&lt;i&gt;Task group: other&lt;i&gt;</task>
+            <task name="prepareComAndroidSupportSupportCoreUi2531Library" type="com.android.build.gradle.internal.tasks.PrepareLibraryTask">Prepare com.android.support:support-core-ui:25.3.1&lt;p&gt;&lt;i&gt;Task group: other&lt;i&gt;</task>
+            <task name="connectedCheck">Runs all device checks on currently connected devices.&lt;p&gt;&lt;i&gt;Task group: verification&lt;i&gt;</task>
+            <task name="connectedDebugAndroidTest" type="com.android.build.gradle.internal.tasks.DeviceProviderInstrumentTestTask">Installs and runs the tests for debug on connected devices.&lt;p&gt;&lt;i&gt;Task group: verification&lt;i&gt;</task>
+            <task name="uninstallAll">Uninstall all applications.&lt;p&gt;&lt;i&gt;Task group: Install&lt;i&gt;</task>
+            <task name="assembleAndroidTest">Assembles all the Test applications.&lt;p&gt;&lt;i&gt;Task group: build&lt;i&gt;</task>
+            <task name="processDebugAndroidTestResources" type="com.android.build.gradle.tasks.ProcessAndroidResources">&lt;i&gt;Task group: other&lt;i&gt;</task>
+            <task name="transformNative_libsWithMergeJniLibsForDebug" type="com.android.build.gradle.internal.pipeline.TransformTask">&lt;i&gt;Task group: other&lt;i&gt;</task>
+            <task name="packageRelease" type="com.android.build.gradle.tasks.PackageApplication">&lt;i&gt;Task group: other&lt;i&gt;</task>
+            <task name="validateSigningDebug" type="com.android.build.gradle.internal.tasks.ValidateSigningTask">&lt;i&gt;Task group: other&lt;i&gt;</task>
+            <task name="compileDebugAidl" type="com.android.build.gradle.tasks.AidlCompile">&lt;i&gt;Task group: other&lt;i&gt;</task>
+            <task name="mergeDebugResources" type="com.android.build.gradle.tasks.MergeResources">&lt;i&gt;Task group: other&lt;i&gt;</task>
+            <task name="wrapper" type="org.gradle.api.tasks.wrapper.Wrapper">Generates Gradle wrapper files. [incubating]&lt;p&gt;&lt;i&gt;Task group: Build Setup&lt;i&gt;</task>
+            <task name="preDebugUnitTestBuild">&lt;i&gt;Task group: other&lt;i&gt;</task>
+            <task name="compileLint" type="com.android.build.gradle.internal.tasks.LintCompile">&lt;i&gt;Task group: other&lt;i&gt;</task>
+            <task name="generateDebugAndroidTestResValues" type="com.android.build.gradle.tasks.GenerateResValues">&lt;i&gt;Task group: other&lt;i&gt;</task>
+            <task name="mergeReleaseShaders" type="com.android.build.gradle.tasks.MergeSourceSetFolders">&lt;i&gt;Task group: other&lt;i&gt;</task>
+            <task name="androidDependencies" type="com.android.build.gradle.internal.tasks.DependencyReportTask">Displays the Android dependencies of the project.&lt;p&gt;&lt;i&gt;Task group: Android&lt;i&gt;</task>
+            <task name="compileDebugAndroidTestNdk" type="com.android.build.gradle.tasks.NdkCompile">&lt;i&gt;Task group: other&lt;i&gt;</task>
+            <task name="compileDebugUnitTestSources">&lt;i&gt;Task group: build&lt;i&gt;</task>
+            <task name="generateDebugSources">&lt;i&gt;Task group: other&lt;i&gt;</task>
+            <task name="mergeDebugAndroidTestJniLibFolders" type="com.android.build.gradle.tasks.MergeSourceSetFolders">&lt;i&gt;Task group: other&lt;i&gt;</task>
+            <task name="extractProguardFiles" type="com.android.build.gradle.internal.tasks.ExtractProguardFiles">&lt;i&gt;Task group: other&lt;i&gt;</task>
+            <task name="transformClassesWithDexForDebugAndroidTest" type="com.android.build.gradle.internal.pipeline.TransformTask">&lt;i&gt;Task group: other&lt;i&gt;</task>
+            <task name="assembleDebugAndroidTest">&lt;i&gt;Task group: other&lt;i&gt;</task>
+            <task name="processDebugJavaRes" type="org.gradle.api.tasks.Sync">&lt;i&gt;Task group: other&lt;i&gt;</task>
+            <task name="generateDebugAndroidTestAssets">&lt;i&gt;Task group: other&lt;i&gt;</task>
+            <task name="compileReleaseJavaWithJavac" type="com.android.build.gradle.tasks.factory.AndroidJavaCompile">&lt;i&gt;Task group: other&lt;i&gt;</task>
+            <task name="jarReleaseClasses" type="com.android.build.gradle.tasks.AndroidJarTask">&lt;i&gt;Task group: other&lt;i&gt;</task>
+            <task name="transformResourcesWithMergeJavaResForDebugAndroidTest" type="com.android.build.gradle.internal.pipeline.TransformTask">&lt;i&gt;Task group: other&lt;i&gt;</task>
+            <task name="prepareReleaseUnitTestDependencies" type="com.android.build.gradle.internal.tasks.PrepareDependenciesTask">&lt;i&gt;Task group: other&lt;i&gt;</task>
+            <task name="test">Run unit tests for all variants.&lt;p&gt;&lt;i&gt;Task group: verification&lt;i&gt;</task>
+            <task name="compileDebugNdk" type="com.android.build.gradle.tasks.NdkCompile">&lt;i&gt;Task group: other&lt;i&gt;</task>
+            <task name="transformNative_libsWithMergeJniLibsForRelease" type="com.android.build.gradle.internal.pipeline.TransformTask">&lt;i&gt;Task group: other&lt;i&gt;</task>
+            <task name="mergeDebugAndroidTestResources" type="com.android.build.gradle.tasks.MergeResources">&lt;i&gt;Task group: other&lt;i&gt;</task>
+            <task name="preReleaseUnitTestBuild">&lt;i&gt;Task group: other&lt;i&gt;</task>
+            <task name="prepareComAndroidSupportSupportFragment2531Library" type="com.android.build.gradle.internal.tasks.PrepareLibraryTask">Prepare com.android.support:support-fragment:25.3.1&lt;p&gt;&lt;i&gt;Task group: other&lt;i&gt;</task>
+            <task name="generateDebugResValues" type="com.android.build.gradle.tasks.GenerateResValues">&lt;i&gt;Task group: other&lt;i&gt;</task>
+            <task name="check">Runs all checks.&lt;p&gt;&lt;i&gt;Task group: verification&lt;i&gt;</task>
+            <task name="prepareComAndroidSupportSupportCompat2531Library" type="com.android.build.gradle.internal.tasks.PrepareLibraryTask">Prepare com.android.support:support-compat:25.3.1&lt;p&gt;&lt;i&gt;Task group: other&lt;i&gt;</task>
+            <task name="testDebugUnitTest" type="com.android.build.gradle.tasks.factory.AndroidUnitTest">Run unit tests for the debug build.&lt;p&gt;&lt;i&gt;Task group: verification&lt;i&gt;</task>
+            <task name="connectedAndroidTest">Installs and runs instrumentation tests for all flavors on connected devices.&lt;p&gt;&lt;i&gt;Task group: verification&lt;i&gt;</task>
+            <task name="jarDebugClasses" type="com.android.build.gradle.tasks.AndroidJarTask">&lt;i&gt;Task group: other&lt;i&gt;</task>
+            <task name="transformClassesWithDexForRelease" type="com.android.build.gradle.internal.pipeline.TransformTask">&lt;i&gt;Task group: other&lt;i&gt;</task>
+            <task name="prepareComAndroidSupportAnimatedVectorDrawable2531Library" type="com.android.build.gradle.internal.tasks.PrepareLibraryTask">Prepare com.android.support:animated-vector-drawable:25.3.1&lt;p&gt;&lt;i&gt;Task group: other&lt;i&gt;</task>
+            <task name="installDebug" type="com.android.build.gradle.internal.tasks.InstallVariantTask">Installs the Debug build.&lt;p&gt;&lt;i&gt;Task group: Install&lt;i&gt;</task>
+            <task name="preBuild">&lt;i&gt;Task group: other&lt;i&gt;</task>
+            <task name="transformResourcesWithMergeJavaResForRelease" type="com.android.build.gradle.internal.pipeline.TransformTask">&lt;i&gt;Task group: other&lt;i&gt;</task>
+            <task name="ideaProject" type="org.gradle.plugins.ide.idea.GenerateIdeaProject">Generates IDEA project file (IPR)&lt;p&gt;&lt;i&gt;Task group: other&lt;i&gt;</task>
+            <task name="compileReleaseSources">&lt;i&gt;Task group: build&lt;i&gt;</task>
+            <task name="compileReleaseUnitTestJavaWithJavac" type="com.android.build.gradle.tasks.factory.AndroidJavaCompile">&lt;i&gt;Task group: other&lt;i&gt;</task>
+            <task name="compileDebugShaders" type="com.android.build.gradle.tasks.ShaderCompile">&lt;i&gt;Task group: other&lt;i&gt;</task>
+            <task name="transformResourcesWithMergeJavaResForDebug" type="com.android.build.gradle.internal.pipeline.TransformTask">&lt;i&gt;Task group: other&lt;i&gt;</task>
+            <task name="compileReleaseAidl" type="com.android.build.gradle.tasks.AidlCompile">&lt;i&gt;Task group: other&lt;i&gt;</task>
+            <task name="lintRelease" type="com.android.build.gradle.tasks.Lint">Runs lint on the Release build.&lt;p&gt;&lt;i&gt;Task group: verification&lt;i&gt;</task>
+            <task name="buildDependents">Assembles and tests this project and all projects that depend on it.&lt;p&gt;&lt;i&gt;Task group: build&lt;i&gt;</task>
+            <task name="generateDebugAssets">&lt;i&gt;Task group: other&lt;i&gt;</task>
+            <task name="idea">Generates IDEA project files (IML, IPR, IWS)&lt;p&gt;&lt;i&gt;Task group: IDE&lt;i&gt;</task>
+            <task name="buildEnvironment" type="org.gradle.api.tasks.diagnostics.BuildEnvironmentReportTask">Displays all buildscript dependencies declared in root project 'FactsGenerator'.&lt;p&gt;&lt;i&gt;Task group: help&lt;i&gt;</task>
+            <task name="checkDebugManifest" type="com.android.build.gradle.internal.tasks.CheckManifest">&lt;i&gt;Task group: other&lt;i&gt;</task>
+            <task name="mergeDebugJniLibFolders" type="com.android.build.gradle.tasks.MergeSourceSetFolders">&lt;i&gt;Task group: other&lt;i&gt;</task>
+            <task name="sourceSets" type="com.android.build.gradle.internal.tasks.SourceSetsTask">Prints out all the source sets defined in this project.&lt;p&gt;&lt;i&gt;Task group: Android&lt;i&gt;</task>
+            <task name="transformResourcesWithMergeJavaResForDebugUnitTest" type="com.android.build.gradle.internal.pipeline.TransformTask">&lt;i&gt;Task group: other&lt;i&gt;</task>
+            <task name="mergeReleaseAssets" type="com.android.build.gradle.tasks.MergeSourceSetFolders">&lt;i&gt;Task group: other&lt;i&gt;</task>
+            <task name="compileDebugRenderscript" type="com.android.build.gradle.tasks.RenderscriptCompile">&lt;i&gt;Task group: other&lt;i&gt;</task>
+            <task name="generateReleaseBuildConfig" type="com.android.build.gradle.tasks.GenerateBuildConfig">&lt;i&gt;Task group: other&lt;i&gt;</task>
+            <task name="prepareDebugUnitTestDependencies" type="com.android.build.gradle.internal.tasks.PrepareDependenciesTask">&lt;i&gt;Task group: other&lt;i&gt;</task>
+            <task name="transformClassesWithShrinkResForRelease" type="com.android.build.gradle.internal.pipeline.TransformTask">&lt;i&gt;Task group: other&lt;i&gt;</task>
+            <task name="ideaModule" type="org.gradle.plugins.ide.idea.GenerateIdeaModule">Generates IDEA module files (IML)&lt;p&gt;&lt;i&gt;Task group: other&lt;i&gt;</task>
+            <task name="cleanIdea">Cleans IDEA project files (IML, IPR)&lt;p&gt;&lt;i&gt;Task group: IDE&lt;i&gt;</task>
+            <task name="generateReleaseResources">&lt;i&gt;Task group: other&lt;i&gt;</task>
+            <task name="lintVitalRelease" type="com.android.build.gradle.tasks.Lint">Runs lint on just the fatal issues in the release build.&lt;p&gt;&lt;i&gt;Task group: other&lt;i&gt;</task>
+            <task name="ideaWorkspace" type="org.gradle.plugins.ide.idea.GenerateIdeaWorkspace">Generates an IDEA workspace file (IWS)&lt;p&gt;&lt;i&gt;Task group: other&lt;i&gt;</task>
+            <task name="uninstallDebug" type="com.android.build.gradle.internal.tasks.UninstallTask">Uninstalls the Debug build.&lt;p&gt;&lt;i&gt;Task group: Install&lt;i&gt;</task>
+            <task name="signingReport" type="com.android.build.gradle.internal.tasks.SigningReportTask">Displays the signing info for each variant.&lt;p&gt;&lt;i&gt;Task group: Android&lt;i&gt;</task>
+            <task name="compileDebugAndroidTestAidl" type="com.android.build.gradle.tasks.AidlCompile">&lt;i&gt;Task group: other&lt;i&gt;</task>
+            <task name="mergeDebugAndroidTestShaders" type="com.android.build.gradle.tasks.MergeSourceSetFolders">&lt;i&gt;Task group: other&lt;i&gt;</task>
+            <task name="clean" type="org.gradle.api.tasks.Delete">&lt;i&gt;Task group: other&lt;i&gt;</task>
+            <task name="preDebugBuild">&lt;i&gt;Task group: other&lt;i&gt;</task>
+            <task name="generateDebugBuildConfig" type="com.android.build.gradle.tasks.GenerateBuildConfig">&lt;i&gt;Task group: other&lt;i&gt;</task>
+            <task name="build">Assembles and tests this project.&lt;p&gt;&lt;i&gt;Task group: build&lt;i&gt;</task>
+            <task name="prepareComAndroidSupportCardviewV72531Library" type="com.android.build.gradle.internal.tasks.PrepareLibraryTask">Prepare com.android.support:cardview-v7:25.3.1&lt;p&gt;&lt;i&gt;Task group: other&lt;i&gt;</task>
+            <task name="assembleRelease">Assembles all Release builds.&lt;p&gt;&lt;i&gt;Task group: build&lt;i&gt;</task>
+            <task name="compileDebugAndroidTestRenderscript" type="com.android.build.gradle.tasks.RenderscriptCompile">&lt;i&gt;Task group: other&lt;i&gt;</task>
+            <task name="generateDebugAndroidTestResources">&lt;i&gt;Task group: other&lt;i&gt;</task>
+            <task name="processDebugManifest" type="com.android.build.gradle.tasks.MergeManifests">&lt;i&gt;Task group: other&lt;i&gt;</task>
+            <task name="packageDebugAndroidTest" type="com.android.build.gradle.tasks.PackageApplication">&lt;i&gt;Task group: other&lt;i&gt;</task>
+            <task name="generateReleaseResValues" type="com.android.build.gradle.tasks.GenerateResValues">&lt;i&gt;Task group: other&lt;i&gt;</task>
+            <task name="properties" type="org.gradle.api.tasks.diagnostics.PropertyReportTask">Displays the properties of root project 'FactsGenerator'.&lt;p&gt;&lt;i&gt;Task group: help&lt;i&gt;</task>
+            <task name="cleanIdeaWorkspace" type="org.gradle.api.tasks.Delete">&lt;i&gt;Task group: other&lt;i&gt;</task>
+            <conf name="classpath" scriptClasspath="true" />
+          </extensions>
+        </project>
+        <project path="$PROJECT_DIR$/app">
+          <extensions parent="$PROJECT_DIR$">
+            <ext name="ext" type="org.gradle.api.internal.plugins.DefaultExtraPropertiesExtension" />
+            <ext name="defaultArtifacts" type="org.gradle.api.internal.plugins.DefaultArtifactPublicationSet" />
+            <ext name="reporting" type="org.gradle.api.reporting.ReportingExtension" />
+            <ext name="android" type="com.android.build.gradle.AppExtension" />
+            <task name="projects" type="org.gradle.api.tasks.diagnostics.ProjectReportTask">Displays the sub-projects of project ':app'.&lt;p&gt;&lt;i&gt;Task group: help&lt;i&gt;</task>
+            <task name="transformClassesAndResourcesWithProguardForRelease" type="com.android.build.gradle.internal.pipeline.TransformTask">&lt;i&gt;Task group: other&lt;i&gt;</task>
+            <task name="validateSigningDebugAndroidTest" type="com.android.build.gradle.internal.tasks.ValidateSigningTask">&lt;i&gt;Task group: other&lt;i&gt;</task>
+            <task name="assembleReleaseUnitTest">&lt;i&gt;Task group: other&lt;i&gt;</task>
+            <task name="prepareDebugDependencies" type="com.android.build.gradle.internal.tasks.PrepareDependenciesTask">&lt;i&gt;Task group: other&lt;i&gt;</task>
+            <task name="processReleaseJavaRes" type="org.gradle.api.tasks.Sync">&lt;i&gt;Task group: other&lt;i&gt;</task>
+            <task name="generateReleaseAssets">&lt;i&gt;Task group: other&lt;i&gt;</task>
+            <task name="lintDebug" type="com.android.build.gradle.tasks.Lint">Runs lint on the Debug build.&lt;p&gt;&lt;i&gt;Task group: verification&lt;i&gt;</task>
+            <task name="assembleDebugUnitTest">&lt;i&gt;Task group: other&lt;i&gt;</task>
+            <task name="mockableAndroidJar" type="com.android.build.gradle.internal.tasks.MockableAndroidJarTask">Creates a version of android.jar that's suitable for unit tests.&lt;p&gt;&lt;i&gt;Task group: build&lt;i&gt;</task>
+            <task name="model" type="org.gradle.api.reporting.model.ModelReport">Displays the configuration model of project ':app'. [incubating]&lt;p&gt;&lt;i&gt;Task group: help&lt;i&gt;</task>
+            <task name="prepareComAndroidSupportAppcompatV72531Library" type="com.android.build.gradle.internal.tasks.PrepareLibraryTask">Prepare com.android.support:appcompat-v7:25.3.1&lt;p&gt;&lt;i&gt;Task group: other&lt;i&gt;</task>
+            <task name="tasks" type="org.gradle.api.tasks.diagnostics.TaskReportTask">Displays the tasks runnable from project ':app'.&lt;p&gt;&lt;i&gt;Task group: help&lt;i&gt;</task>
+            <task name="compileDebugSources">&lt;i&gt;Task group: build&lt;i&gt;</task>
+            <task name="incrementalDebugJavaCompilationSafeguard" type="com.android.build.gradle.tasks.factory.IncrementalSafeguard">&lt;i&gt;Task group: other&lt;i&gt;</task>
+            <task name="prepareComAndroidSupportSupportMediaCompat2531Library" type="com.android.build.gradle.internal.tasks.PrepareLibraryTask">Prepare com.android.support:support-media-compat:25.3.1&lt;p&gt;&lt;i&gt;Task group: other&lt;i&gt;</task>
+            <task name="prepareComAndroidSupportSupportVectorDrawable2531Library" type="com.android.build.gradle.internal.tasks.PrepareLibraryTask">Prepare com.android.support:support-vector-drawable:25.3.1&lt;p&gt;&lt;i&gt;Task group: other&lt;i&gt;</task>
+            <task name="deviceCheck">Runs all device checks using Device Providers and Test Servers.&lt;p&gt;&lt;i&gt;Task group: verification&lt;i&gt;</task>
+            <task name="dependencies" type="org.gradle.api.tasks.diagnostics.DependencyReportTask">Displays all dependencies declared in project ':app'.&lt;p&gt;&lt;i&gt;Task group: help&lt;i&gt;</task>
+            <task name="processDebugResources" type="com.android.build.gradle.tasks.ProcessAndroidResources">&lt;i&gt;Task group: other&lt;i&gt;</task>
+            <task name="lint" type="com.android.build.gradle.tasks.Lint">Runs lint on all variants.&lt;p&gt;&lt;i&gt;Task group: verification&lt;i&gt;</task>
+            <task name="packageDebug" type="com.android.build.gradle.tasks.PackageApplication">&lt;i&gt;Task group: other&lt;i&gt;</task>
+            <task name="compileReleaseNdk" type="com.android.build.gradle.tasks.NdkCompile">&lt;i&gt;Task group: other&lt;i&gt;</task>
+            <task name="generateDebugResources">&lt;i&gt;Task group: other&lt;i&gt;</task>
+            <task name="compileDebugJavaWithJavac" type="com.android.build.gradle.tasks.factory.AndroidJavaCompile">&lt;i&gt;Task group: other&lt;i&gt;</task>
+            <task name="buildNeeded">Assembles and tests this project and all projects it depends on.&lt;p&gt;&lt;i&gt;Task group: build&lt;i&gt;</task>
+            <task name="generateDebugAndroidTestBuildConfig" type="com.android.build.gradle.tasks.GenerateBuildConfig">&lt;i&gt;Task group: other&lt;i&gt;</task>
+            <task name="processDebugUnitTestJavaRes" type="org.gradle.api.tasks.Sync">&lt;i&gt;Task group: other&lt;i&gt;</task>
+            <task name="testReleaseUnitTest" type="com.android.build.gradle.tasks.factory.AndroidUnitTest">Run unit tests for the release build.&lt;p&gt;&lt;i&gt;Task group: verification&lt;i&gt;</task>
+            <task name="compileDebugAndroidTestShaders" type="com.android.build.gradle.tasks.ShaderCompile">&lt;i&gt;Task group: other&lt;i&gt;</task>
+            <task name="mergeDebugShaders" type="com.android.build.gradle.tasks.MergeSourceSetFolders">&lt;i&gt;Task group: other&lt;i&gt;</task>
+            <task name="transformNative_libsWithMergeJniLibsForDebugAndroidTest" type="com.android.build.gradle.internal.pipeline.TransformTask">&lt;i&gt;Task group: other&lt;i&gt;</task>
+            <task name="compileDebugAndroidTestJavaWithJavac" type="com.android.build.gradle.tasks.factory.AndroidJavaCompile">&lt;i&gt;Task group: other&lt;i&gt;</task>
+            <task name="components" type="org.gradle.api.reporting.components.ComponentReport">Displays the components produced by project ':app'. [incubating]&lt;p&gt;&lt;i&gt;Task group: help&lt;i&gt;</task>
+            <task name="compileReleaseRenderscript" type="com.android.build.gradle.tasks.RenderscriptCompile">&lt;i&gt;Task group: other&lt;i&gt;</task>
+            <task name="assembleDebug">Assembles all Debug builds.&lt;p&gt;&lt;i&gt;Task group: build&lt;i&gt;</task>
+            <task name="processDebugAndroidTestManifest" type="com.android.build.gradle.tasks.ProcessTestManifest">&lt;i&gt;Task group: other&lt;i&gt;</task>
+            <task name="compileDebugUnitTestJavaWithJavac" type="com.android.build.gradle.tasks.factory.AndroidJavaCompile">&lt;i&gt;Task group: other&lt;i&gt;</task>
+            <task name="prepareComAndroidSupportSupportCoreUtils2531Library" type="com.android.build.gradle.internal.tasks.PrepareLibraryTask">Prepare com.android.support:support-core-utils:25.3.1&lt;p&gt;&lt;i&gt;Task group: other&lt;i&gt;</task>
+            <task name="prepareComAndroidSupportSupportV42531Library" type="com.android.build.gradle.internal.tasks.PrepareLibraryTask">Prepare com.android.support:support-v4:25.3.1&lt;p&gt;&lt;i&gt;Task group: other&lt;i&gt;</task>
+            <task name="transformResourcesWithMergeJavaResForReleaseUnitTest" type="com.android.build.gradle.internal.pipeline.TransformTask">&lt;i&gt;Task group: other&lt;i&gt;</task>
+            <task name="cleanIdeaModule" type="org.gradle.api.tasks.Delete">&lt;i&gt;Task group: other&lt;i&gt;</task>
+            <task name="transformClassesWithDexForDebug" type="com.android.build.gradle.internal.pipeline.TransformTask">&lt;i&gt;Task group: other&lt;i&gt;</task>
+            <task name="preDebugAndroidTestBuild">&lt;i&gt;Task group: other&lt;i&gt;</task>
+            <task name="processDebugAndroidTestJavaRes" type="org.gradle.api.tasks.Sync">&lt;i&gt;Task group: other&lt;i&gt;</task>
+            <task name="processReleaseUnitTestJavaRes" type="org.gradle.api.tasks.Sync">&lt;i&gt;Task group: other&lt;i&gt;</task>
+            <task name="prepareComAndroidSupportDesign2531Library" type="com.android.build.gradle.internal.tasks.PrepareLibraryTask">Prepare com.android.support:design:25.3.1&lt;p&gt;&lt;i&gt;Task group: other&lt;i&gt;</task>
+            <task name="uninstallRelease" type="com.android.build.gradle.internal.tasks.UninstallTask">Uninstalls the Release build.&lt;p&gt;&lt;i&gt;Task group: Install&lt;i&gt;</task>
+            <task name="compileReleaseShaders" type="com.android.build.gradle.tasks.ShaderCompile">&lt;i&gt;Task group: other&lt;i&gt;</task>
+            <task name="mergeReleaseResources" type="com.android.build.gradle.tasks.MergeResources">&lt;i&gt;Task group: other&lt;i&gt;</task>
+            <task name="prepareComAndroidSupportTransition2531Library" type="com.android.build.gradle.internal.tasks.PrepareLibraryTask">Prepare com.android.support:transition:25.3.1&lt;p&gt;&lt;i&gt;Task group: other&lt;i&gt;</task>
+            <task name="generateDebugAndroidTestSources">&lt;i&gt;Task group: other&lt;i&gt;</task>
+            <task name="prepareDebugAndroidTestDependencies" type="com.android.build.gradle.internal.tasks.PrepareDependenciesTask">&lt;i&gt;Task group: other&lt;i&gt;</task>
+            <task name="incrementalDebugAndroidTestJavaCompilationSafeguard" type="com.android.build.gradle.tasks.factory.IncrementalSafeguard">&lt;i&gt;Task group: other&lt;i&gt;</task>
+            <task name="checkReleaseManifest" type="com.android.build.gradle.internal.tasks.CheckManifest">&lt;i&gt;Task group: other&lt;i&gt;</task>
+            <task name="compileDebugAndroidTestSources">&lt;i&gt;Task group: build&lt;i&gt;</task>
+            <task name="mergeReleaseJniLibFolders" type="com.android.build.gradle.tasks.MergeSourceSetFolders">&lt;i&gt;Task group: other&lt;i&gt;</task>
+            <task name="prepareReleaseDependencies" type="com.android.build.gradle.internal.tasks.PrepareDependenciesTask">&lt;i&gt;Task group: other&lt;i&gt;</task>
+            <task name="processReleaseResources" type="com.android.build.gradle.tasks.ProcessAndroidResources">&lt;i&gt;Task group: other&lt;i&gt;</task>
+            <task name="deviceAndroidTest">Installs and runs instrumentation tests using all Device Providers.&lt;p&gt;&lt;i&gt;Task group: verification&lt;i&gt;</task>
+            <task name="mergeDebugAndroidTestAssets" type="com.android.build.gradle.tasks.MergeSourceSetFolders">&lt;i&gt;Task group: other&lt;i&gt;</task>
+            <task name="processReleaseManifest" type="com.android.build.gradle.tasks.MergeManifests">&lt;i&gt;Task group: other&lt;i&gt;</task>
+            <task name="uninstallDebugAndroidTest" type="com.android.build.gradle.internal.tasks.UninstallTask">Uninstalls the android (on device) tests for the Debug build.&lt;p&gt;&lt;i&gt;Task group: Install&lt;i&gt;</task>
+            <task name="dependencyInsight" type="org.gradle.api.tasks.diagnostics.DependencyInsightReportTask">Displays the insight into a specific dependency in project ':app'.&lt;p&gt;&lt;i&gt;Task group: help&lt;i&gt;</task>
+            <task name="generateReleaseSources">&lt;i&gt;Task group: other&lt;i&gt;</task>
+            <task name="incrementalReleaseUnitTestJavaCompilationSafeguard" type="com.android.build.gradle.tasks.factory.IncrementalSafeguard">&lt;i&gt;Task group: other&lt;i&gt;</task>
+            <task name="preReleaseBuild">&lt;i&gt;Task group: other&lt;i&gt;</task>
+            <task name="assemble">Assembles all variants of all applications and secondary packages.&lt;p&gt;&lt;i&gt;Task group: build&lt;i&gt;</task>
+            <task name="incrementalDebugUnitTestJavaCompilationSafeguard" type="com.android.build.gradle.tasks.factory.IncrementalSafeguard">&lt;i&gt;Task group: other&lt;i&gt;</task>
+            <task name="incrementalReleaseJavaCompilationSafeguard" type="com.android.build.gradle.tasks.factory.IncrementalSafeguard">&lt;i&gt;Task group: other&lt;i&gt;</task>
+            <task name="help" type="org.gradle.configuration.Help">Displays a help message.&lt;p&gt;&lt;i&gt;Task group: help&lt;i&gt;</task>
+            <task name="compileReleaseUnitTestSources">&lt;i&gt;Task group: build&lt;i&gt;</task>
+            <task name="installDebugAndroidTest" type="com.android.build.gradle.internal.tasks.InstallVariantTask">Installs the android (on device) tests for the Debug build.&lt;p&gt;&lt;i&gt;Task group: Install&lt;i&gt;</task>
+            <task name="mergeDebugAssets" type="com.android.build.gradle.tasks.MergeSourceSetFolders">&lt;i&gt;Task group: other&lt;i&gt;</task>
+            <task name="prepareComAndroidSupportRecyclerviewV72531Library" type="com.android.build.gradle.internal.tasks.PrepareLibraryTask">Prepare com.android.support:recyclerview-v7:25.3.1&lt;p&gt;&lt;i&gt;Task group: other&lt;i&gt;</task>
+            <task name="prepareComAndroidSupportSupportCoreUi2531Library" type="com.android.build.gradle.internal.tasks.PrepareLibraryTask">Prepare com.android.support:support-core-ui:25.3.1&lt;p&gt;&lt;i&gt;Task group: other&lt;i&gt;</task>
+            <task name="connectedCheck">Runs all device checks on currently connected devices.&lt;p&gt;&lt;i&gt;Task group: verification&lt;i&gt;</task>
+            <task name="connectedDebugAndroidTest" type="com.android.build.gradle.internal.tasks.DeviceProviderInstrumentTestTask">Installs and runs the tests for debug on connected devices.&lt;p&gt;&lt;i&gt;Task group: verification&lt;i&gt;</task>
+            <task name="uninstallAll">Uninstall all applications.&lt;p&gt;&lt;i&gt;Task group: Install&lt;i&gt;</task>
+            <task name="assembleAndroidTest">Assembles all the Test applications.&lt;p&gt;&lt;i&gt;Task group: build&lt;i&gt;</task>
+            <task name="processDebugAndroidTestResources" type="com.android.build.gradle.tasks.ProcessAndroidResources">&lt;i&gt;Task group: other&lt;i&gt;</task>
+            <task name="transformNative_libsWithMergeJniLibsForDebug" type="com.android.build.gradle.internal.pipeline.TransformTask">&lt;i&gt;Task group: other&lt;i&gt;</task>
+            <task name="packageRelease" type="com.android.build.gradle.tasks.PackageApplication">&lt;i&gt;Task group: other&lt;i&gt;</task>
+            <task name="validateSigningDebug" type="com.android.build.gradle.internal.tasks.ValidateSigningTask">&lt;i&gt;Task group: other&lt;i&gt;</task>
+            <task name="compileDebugAidl" type="com.android.build.gradle.tasks.AidlCompile">&lt;i&gt;Task group: other&lt;i&gt;</task>
+            <task name="mergeDebugResources" type="com.android.build.gradle.tasks.MergeResources">&lt;i&gt;Task group: other&lt;i&gt;</task>
+            <task name="preDebugUnitTestBuild">&lt;i&gt;Task group: other&lt;i&gt;</task>
+            <task name="compileLint" type="com.android.build.gradle.internal.tasks.LintCompile">&lt;i&gt;Task group: other&lt;i&gt;</task>
+            <task name="generateDebugAndroidTestResValues" type="com.android.build.gradle.tasks.GenerateResValues">&lt;i&gt;Task group: other&lt;i&gt;</task>
+            <task name="mergeReleaseShaders" type="com.android.build.gradle.tasks.MergeSourceSetFolders">&lt;i&gt;Task group: other&lt;i&gt;</task>
+            <task name="androidDependencies" type="com.android.build.gradle.internal.tasks.DependencyReportTask">Displays the Android dependencies of the project.&lt;p&gt;&lt;i&gt;Task group: Android&lt;i&gt;</task>
+            <task name="compileDebugAndroidTestNdk" type="com.android.build.gradle.tasks.NdkCompile">&lt;i&gt;Task group: other&lt;i&gt;</task>
+            <task name="compileDebugUnitTestSources">&lt;i&gt;Task group: build&lt;i&gt;</task>
+            <task name="generateDebugSources">&lt;i&gt;Task group: other&lt;i&gt;</task>
+            <task name="mergeDebugAndroidTestJniLibFolders" type="com.android.build.gradle.tasks.MergeSourceSetFolders">&lt;i&gt;Task group: other&lt;i&gt;</task>
+            <task name="extractProguardFiles" type="com.android.build.gradle.internal.tasks.ExtractProguardFiles">&lt;i&gt;Task group: other&lt;i&gt;</task>
+            <task name="transformClassesWithDexForDebugAndroidTest" type="com.android.build.gradle.internal.pipeline.TransformTask">&lt;i&gt;Task group: other&lt;i&gt;</task>
+            <task name="assembleDebugAndroidTest">&lt;i&gt;Task group: other&lt;i&gt;</task>
+            <task name="processDebugJavaRes" type="org.gradle.api.tasks.Sync">&lt;i&gt;Task group: other&lt;i&gt;</task>
+            <task name="generateDebugAndroidTestAssets">&lt;i&gt;Task group: other&lt;i&gt;</task>
+            <task name="compileReleaseJavaWithJavac" type="com.android.build.gradle.tasks.factory.AndroidJavaCompile">&lt;i&gt;Task group: other&lt;i&gt;</task>
+            <task name="jarReleaseClasses" type="com.android.build.gradle.tasks.AndroidJarTask">&lt;i&gt;Task group: other&lt;i&gt;</task>
+            <task name="transformResourcesWithMergeJavaResForDebugAndroidTest" type="com.android.build.gradle.internal.pipeline.TransformTask">&lt;i&gt;Task group: other&lt;i&gt;</task>
+            <task name="prepareReleaseUnitTestDependencies" type="com.android.build.gradle.internal.tasks.PrepareDependenciesTask">&lt;i&gt;Task group: other&lt;i&gt;</task>
+            <task name="test">Run unit tests for all variants.&lt;p&gt;&lt;i&gt;Task group: verification&lt;i&gt;</task>
+            <task name="compileDebugNdk" type="com.android.build.gradle.tasks.NdkCompile">&lt;i&gt;Task group: other&lt;i&gt;</task>
+            <task name="transformNative_libsWithMergeJniLibsForRelease" type="com.android.build.gradle.internal.pipeline.TransformTask">&lt;i&gt;Task group: other&lt;i&gt;</task>
+            <task name="mergeDebugAndroidTestResources" type="com.android.build.gradle.tasks.MergeResources">&lt;i&gt;Task group: other&lt;i&gt;</task>
+            <task name="preReleaseUnitTestBuild">&lt;i&gt;Task group: other&lt;i&gt;</task>
+            <task name="prepareComAndroidSupportSupportFragment2531Library" type="com.android.build.gradle.internal.tasks.PrepareLibraryTask">Prepare com.android.support:support-fragment:25.3.1&lt;p&gt;&lt;i&gt;Task group: other&lt;i&gt;</task>
+            <task name="generateDebugResValues" type="com.android.build.gradle.tasks.GenerateResValues">&lt;i&gt;Task group: other&lt;i&gt;</task>
+            <task name="check">Runs all checks.&lt;p&gt;&lt;i&gt;Task group: verification&lt;i&gt;</task>
+            <task name="prepareComAndroidSupportSupportCompat2531Library" type="com.android.build.gradle.internal.tasks.PrepareLibraryTask">Prepare com.android.support:support-compat:25.3.1&lt;p&gt;&lt;i&gt;Task group: other&lt;i&gt;</task>
+            <task name="testDebugUnitTest" type="com.android.build.gradle.tasks.factory.AndroidUnitTest">Run unit tests for the debug build.&lt;p&gt;&lt;i&gt;Task group: verification&lt;i&gt;</task>
+            <task name="connectedAndroidTest">Installs and runs instrumentation tests for all flavors on connected devices.&lt;p&gt;&lt;i&gt;Task group: verification&lt;i&gt;</task>
+            <task name="jarDebugClasses" type="com.android.build.gradle.tasks.AndroidJarTask">&lt;i&gt;Task group: other&lt;i&gt;</task>
+            <task name="transformClassesWithDexForRelease" type="com.android.build.gradle.internal.pipeline.TransformTask">&lt;i&gt;Task group: other&lt;i&gt;</task>
+            <task name="prepareComAndroidSupportAnimatedVectorDrawable2531Library" type="com.android.build.gradle.internal.tasks.PrepareLibraryTask">Prepare com.android.support:animated-vector-drawable:25.3.1&lt;p&gt;&lt;i&gt;Task group: other&lt;i&gt;</task>
+            <task name="installDebug" type="com.android.build.gradle.internal.tasks.InstallVariantTask">Installs the Debug build.&lt;p&gt;&lt;i&gt;Task group: Install&lt;i&gt;</task>
+            <task name="preBuild">&lt;i&gt;Task group: other&lt;i&gt;</task>
+            <task name="transformResourcesWithMergeJavaResForRelease" type="com.android.build.gradle.internal.pipeline.TransformTask">&lt;i&gt;Task group: other&lt;i&gt;</task>
+            <task name="compileReleaseSources">&lt;i&gt;Task group: build&lt;i&gt;</task>
+            <task name="compileReleaseUnitTestJavaWithJavac" type="com.android.build.gradle.tasks.factory.AndroidJavaCompile">&lt;i&gt;Task group: other&lt;i&gt;</task>
+            <task name="compileDebugShaders" type="com.android.build.gradle.tasks.ShaderCompile">&lt;i&gt;Task group: other&lt;i&gt;</task>
+            <task name="transformResourcesWithMergeJavaResForDebug" type="com.android.build.gradle.internal.pipeline.TransformTask">&lt;i&gt;Task group: other&lt;i&gt;</task>
+            <task name="compileReleaseAidl" type="com.android.build.gradle.tasks.AidlCompile">&lt;i&gt;Task group: other&lt;i&gt;</task>
+            <task name="lintRelease" type="com.android.build.gradle.tasks.Lint">Runs lint on the Release build.&lt;p&gt;&lt;i&gt;Task group: verification&lt;i&gt;</task>
+            <task name="buildDependents">Assembles and tests this project and all projects that depend on it.&lt;p&gt;&lt;i&gt;Task group: build&lt;i&gt;</task>
+            <task name="generateDebugAssets">&lt;i&gt;Task group: other&lt;i&gt;</task>
+            <task name="idea">Generates IDEA project files (IML, IPR, IWS)&lt;p&gt;&lt;i&gt;Task group: IDE&lt;i&gt;</task>
+            <task name="buildEnvironment" type="org.gradle.api.tasks.diagnostics.BuildEnvironmentReportTask">Displays all buildscript dependencies declared in project ':app'.&lt;p&gt;&lt;i&gt;Task group: help&lt;i&gt;</task>
+            <task name="checkDebugManifest" type="com.android.build.gradle.internal.tasks.CheckManifest">&lt;i&gt;Task group: other&lt;i&gt;</task>
+            <task name="mergeDebugJniLibFolders" type="com.android.build.gradle.tasks.MergeSourceSetFolders">&lt;i&gt;Task group: other&lt;i&gt;</task>
+            <task name="sourceSets" type="com.android.build.gradle.internal.tasks.SourceSetsTask">Prints out all the source sets defined in this project.&lt;p&gt;&lt;i&gt;Task group: Android&lt;i&gt;</task>
+            <task name="transformResourcesWithMergeJavaResForDebugUnitTest" type="com.android.build.gradle.internal.pipeline.TransformTask">&lt;i&gt;Task group: other&lt;i&gt;</task>
+            <task name="mergeReleaseAssets" type="com.android.build.gradle.tasks.MergeSourceSetFolders">&lt;i&gt;Task group: other&lt;i&gt;</task>
+            <task name="compileDebugRenderscript" type="com.android.build.gradle.tasks.RenderscriptCompile">&lt;i&gt;Task group: other&lt;i&gt;</task>
+            <task name="generateReleaseBuildConfig" type="com.android.build.gradle.tasks.GenerateBuildConfig">&lt;i&gt;Task group: other&lt;i&gt;</task>
+            <task name="prepareDebugUnitTestDependencies" type="com.android.build.gradle.internal.tasks.PrepareDependenciesTask">&lt;i&gt;Task group: other&lt;i&gt;</task>
+            <task name="transformClassesWithShrinkResForRelease" type="com.android.build.gradle.internal.pipeline.TransformTask">&lt;i&gt;Task group: other&lt;i&gt;</task>
+            <task name="ideaModule" type="org.gradle.plugins.ide.idea.GenerateIdeaModule">Generates IDEA module files (IML)&lt;p&gt;&lt;i&gt;Task group: other&lt;i&gt;</task>
+            <task name="cleanIdea">Cleans IDEA project files (IML, IPR)&lt;p&gt;&lt;i&gt;Task group: IDE&lt;i&gt;</task>
+            <task name="generateReleaseResources">&lt;i&gt;Task group: other&lt;i&gt;</task>
+            <task name="lintVitalRelease" type="com.android.build.gradle.tasks.Lint">Runs lint on just the fatal issues in the release build.&lt;p&gt;&lt;i&gt;Task group: other&lt;i&gt;</task>
+            <task name="uninstallDebug" type="com.android.build.gradle.internal.tasks.UninstallTask">Uninstalls the Debug build.&lt;p&gt;&lt;i&gt;Task group: Install&lt;i&gt;</task>
+            <task name="signingReport" type="com.android.build.gradle.internal.tasks.SigningReportTask">Displays the signing info for each variant.&lt;p&gt;&lt;i&gt;Task group: Android&lt;i&gt;</task>
+            <task name="compileDebugAndroidTestAidl" type="com.android.build.gradle.tasks.AidlCompile">&lt;i&gt;Task group: other&lt;i&gt;</task>
+            <task name="mergeDebugAndroidTestShaders" type="com.android.build.gradle.tasks.MergeSourceSetFolders">&lt;i&gt;Task group: other&lt;i&gt;</task>
+            <task name="clean" type="org.gradle.api.tasks.Delete">Deletes the build directory.&lt;p&gt;&lt;i&gt;Task group: build&lt;i&gt;</task>
+            <task name="preDebugBuild">&lt;i&gt;Task group: other&lt;i&gt;</task>
+            <task name="generateDebugBuildConfig" type="com.android.build.gradle.tasks.GenerateBuildConfig">&lt;i&gt;Task group: other&lt;i&gt;</task>
+            <task name="build">Assembles and tests this project.&lt;p&gt;&lt;i&gt;Task group: build&lt;i&gt;</task>
+            <task name="prepareComAndroidSupportCardviewV72531Library" type="com.android.build.gradle.internal.tasks.PrepareLibraryTask">Prepare com.android.support:cardview-v7:25.3.1&lt;p&gt;&lt;i&gt;Task group: other&lt;i&gt;</task>
+            <task name="assembleRelease">Assembles all Release builds.&lt;p&gt;&lt;i&gt;Task group: build&lt;i&gt;</task>
+            <task name="compileDebugAndroidTestRenderscript" type="com.android.build.gradle.tasks.RenderscriptCompile">&lt;i&gt;Task group: other&lt;i&gt;</task>
+            <task name="generateDebugAndroidTestResources">&lt;i&gt;Task group: other&lt;i&gt;</task>
+            <task name="processDebugManifest" type="com.android.build.gradle.tasks.MergeManifests">&lt;i&gt;Task group: other&lt;i&gt;</task>
+            <task name="packageDebugAndroidTest" type="com.android.build.gradle.tasks.PackageApplication">&lt;i&gt;Task group: other&lt;i&gt;</task>
+            <task name="generateReleaseResValues" type="com.android.build.gradle.tasks.GenerateResValues">&lt;i&gt;Task group: other&lt;i&gt;</task>
+            <task name="properties" type="org.gradle.api.tasks.diagnostics.PropertyReportTask">Displays the properties of project ':app'.&lt;p&gt;&lt;i&gt;Task group: help&lt;i&gt;</task>
+            <conf name="_debugAndroidTestAnnotationProcessor" visible="false">## Internal use, do not manually configure ##</conf>
+            <conf name="_debugAndroidTestApk" visible="false">## Internal use, do not manually configure ##</conf>
+            <conf name="_debugAndroidTestCompile" visible="false">## Internal use, do not manually configure ##</conf>
+            <conf name="_debugAnnotationProcessor" visible="false">## Internal use, do not manually configure ##</conf>
+            <conf name="_debugApk" visible="false">## Internal use, do not manually configure ##</conf>
+            <conf name="_debugCompile" visible="false">## Internal use, do not manually configure ##</conf>
+            <conf name="_debugUnitTestAnnotationProcessor" visible="false">## Internal use, do not manually configure ##</conf>
+            <conf name="_debugUnitTestApk" visible="false">## Internal use, do not manually configure ##</conf>
+            <conf name="_debugUnitTestCompile" visible="false">## Internal use, do not manually configure ##</conf>
+            <conf name="_releaseAnnotationProcessor" visible="false">## Internal use, do not manually configure ##</conf>
+            <conf name="_releaseApk" visible="false">## Internal use, do not manually configure ##</conf>
+            <conf name="_releaseCompile" visible="false">## Internal use, do not manually configure ##</conf>
+            <conf name="_releaseUnitTestAnnotationProcessor" visible="false">## Internal use, do not manually configure ##</conf>
+            <conf name="_releaseUnitTestApk" visible="false">## Internal use, do not manually configure ##</conf>
+            <conf name="_releaseUnitTestCompile" visible="false">## Internal use, do not manually configure ##</conf>
+            <conf name="androidJacocoAgent" visible="false">The Jacoco agent to use to get coverage data.</conf>
+            <conf name="androidJacocoAnt" visible="false">The Jacoco ant tasks to use to get execute Gradle tasks.</conf>
+            <conf name="androidTestAnnotationProcessor" visible="false">Classpath for the annotation processor for 'androidTest'.</conf>
+            <conf name="androidTestApk" visible="false">Classpath packaged with the compiled 'androidTest' classes.</conf>
+            <conf name="androidTestCompile" visible="false">Classpath for compiling the androidTest sources.</conf>
+            <conf name="androidTestProvided" visible="false">Classpath for only compiling the androidTest sources.</conf>
+            <conf name="androidTestWearApp" visible="false">Link to a wear app to embed for object 'androidTest'.</conf>
+            <conf name="annotationProcessor" visible="false">Classpath for the annotation processor for 'main'.</conf>
+            <conf name="apk" visible="false">Classpath packaged with the compiled 'main' classes.</conf>
+            <conf name="archives">Configuration for archive artifacts.</conf>
+            <conf name="compile" visible="false">Classpath for compiling the main sources.</conf>
+            <conf name="debugAnnotationProcessor" visible="false">Classpath for the annotation processor for 'debug'.</conf>
+            <conf name="debugApk" visible="false">Classpath packaged with the compiled 'debug' classes.</conf>
+            <conf name="debugCompile" visible="false">Classpath for compiling the debug sources.</conf>
+            <conf name="debugProvided" visible="false">Classpath for only compiling the debug sources.</conf>
+            <conf name="debugWearApp" visible="false">Link to a wear app to embed for object 'debug'.</conf>
+            <conf name="default">Configuration for default artifacts.</conf>
+            <conf name="default-mapping">Configuration for default mapping artifacts.</conf>
+            <conf name="default-metadata">Metadata for the produced APKs.</conf>
+            <conf name="provided" visible="false">Classpath for only compiling the main sources.</conf>
+            <conf name="releaseAnnotationProcessor" visible="false">Classpath for the annotation processor for 'release'.</conf>
+            <conf name="releaseApk" visible="false">Classpath packaged with the compiled 'release' classes.</conf>
+            <conf name="releaseCompile" visible="false">Classpath for compiling the release sources.</conf>
+            <conf name="releaseProvided" visible="false">Classpath for only compiling the release sources.</conf>
+            <conf name="releaseWearApp" visible="false">Link to a wear app to embed for object 'release'.</conf>
+            <conf name="testAnnotationProcessor" visible="false">Classpath for the annotation processor for 'test'.</conf>
+            <conf name="testApk" visible="false">Classpath packaged with the compiled 'test' classes.</conf>
+            <conf name="testCompile" visible="false">Classpath for compiling the test sources.</conf>
+            <conf name="testDebugAnnotationProcessor" visible="false">Classpath for the annotation processor for 'testDebug'.</conf>
+            <conf name="testDebugApk" visible="false">Classpath packaged with the compiled 'testDebug' classes.</conf>
+            <conf name="testDebugCompile" visible="false">Classpath for compiling the testDebug sources.</conf>
+            <conf name="testDebugProvided" visible="false">Classpath for only compiling the testDebug sources.</conf>
+            <conf name="testDebugWearApp" visible="false">Link to a wear app to embed for object 'testDebug'.</conf>
+            <conf name="testProvided" visible="false">Classpath for only compiling the test sources.</conf>
+            <conf name="testReleaseAnnotationProcessor" visible="false">Classpath for the annotation processor for 'testRelease'.</conf>
+            <conf name="testReleaseApk" visible="false">Classpath packaged with the compiled 'testRelease' classes.</conf>
+            <conf name="testReleaseCompile" visible="false">Classpath for compiling the testRelease sources.</conf>
+            <conf name="testReleaseProvided" visible="false">Classpath for only compiling the testRelease sources.</conf>
+            <conf name="testReleaseWearApp" visible="false">Link to a wear app to embed for object 'testRelease'.</conf>
+            <conf name="testWearApp" visible="false">Link to a wear app to embed for object 'test'.</conf>
+            <conf name="wearApp" visible="false">Link to a wear app to embed for object 'main'.</conf>
+            <conf name="classpath" scriptClasspath="true" />
+          </extensions>
+        </project>
+      </sub-project>
+    </project>
+  </component>
   <component name="GradleLocalSettings">
     <option name="myGradleHomes">
       <map>
-        <entry key="$PROJECT_DIR$" value="C:\Users\ΣΠΥΡΟΣ\.gradle\wrapper\dists\gradle-2.14.1-all\8bnwg5hd3w55iofp58khbp6yv\gradle-2.14.1" />
+        <entry key="$PROJECT_DIR$" value="C:\Users\Paget96\.gradle\wrapper\dists\gradle-2.14.1-all\8bnwg5hd3w55iofp58khbp6yv\gradle-2.14.1" />
       </map>
     </option>
     <option name="myGradleVersions">
@@ -205,6 +648,10 @@
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="transformClassesAndResourcesWithProguardForRelease" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="validateSigningDebugAndroidTest" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
@@ -218,11 +665,6 @@
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="processReleaseJavaRes" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Prepare com.android.support:support-vector-drawable:23.4.0" />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="prepareComAndroidSupportSupportVectorDrawable2340Library" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
@@ -248,6 +690,11 @@
                 <option name="name" value="mockableAndroidJar" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
+                <option name="description" value="Prepare com.android.support:appcompat-v7:25.3.1" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="prepareComAndroidSupportAppcompatV72531Library" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
                 <option name="description" value="Displays the tasks runnable from root project 'FactsGenerator' (some of the displayed tasks may belong to subprojects)." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="tasks" />
@@ -264,6 +711,16 @@
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="incrementalDebugJavaCompilationSafeguard" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Prepare com.android.support:support-media-compat:25.3.1" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="prepareComAndroidSupportSupportMediaCompat2531Library" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Prepare com.android.support:support-vector-drawable:25.3.1" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="prepareComAndroidSupportSupportVectorDrawable2531Library" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Runs all device checks using Device Providers and Test Servers." />
@@ -357,6 +814,16 @@
                 <option name="name" value="compileDebugUnitTestJavaWithJavac" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
+                <option name="description" value="Prepare com.android.support:support-core-utils:25.3.1" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="prepareComAndroidSupportSupportCoreUtils2531Library" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Prepare com.android.support:support-v4:25.3.1" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="prepareComAndroidSupportSupportV42531Library" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="transformResourcesWithMergeJavaResForReleaseUnitTest" />
               </ExternalTaskPojo>
@@ -377,6 +844,11 @@
                 <option name="name" value="processReleaseUnitTestJavaRes" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
+                <option name="description" value="Prepare com.android.support:design:25.3.1" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="prepareComAndroidSupportDesign2531Library" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
                 <option name="description" value="Uninstalls the Release build." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="uninstallRelease" />
@@ -388,6 +860,11 @@
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="mergeReleaseResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Prepare com.android.support:transition:25.3.1" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="prepareComAndroidSupportTransition2531Library" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
@@ -433,11 +910,6 @@
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="processReleaseManifest" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Prepare com.android.support:appcompat-v7:23.4.0" />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="prepareComAndroidSupportAppcompatV72340Library" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Uninstalls the android (on device) tests for the Debug build." />
@@ -493,9 +965,14 @@
                 <option name="name" value="mergeDebugAssets" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Prepare com.android.support:animated-vector-drawable:23.4.0" />
+                <option name="description" value="Prepare com.android.support:recyclerview-v7:25.3.1" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="prepareComAndroidSupportAnimatedVectorDrawable2340Library" />
+                <option name="name" value="prepareComAndroidSupportRecyclerviewV72531Library" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Prepare com.android.support:support-core-ui:25.3.1" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="prepareComAndroidSupportSupportCoreUi2531Library" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Runs all device checks on currently connected devices." />
@@ -641,6 +1118,11 @@
                 <option name="name" value="preReleaseUnitTestBuild" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
+                <option name="description" value="Prepare com.android.support:support-fragment:25.3.1" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="prepareComAndroidSupportSupportFragment2531Library" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="generateDebugResValues" />
               </ExternalTaskPojo>
@@ -648,6 +1130,11 @@
                 <option name="description" value="Runs all checks." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="check" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Prepare com.android.support:support-compat:25.3.1" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="prepareComAndroidSupportSupportCompat2531Library" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Run unit tests for the debug build." />
@@ -668,14 +1155,14 @@
                 <option name="name" value="transformClassesWithDexForRelease" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
+                <option name="description" value="Prepare com.android.support:animated-vector-drawable:25.3.1" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="prepareComAndroidSupportAnimatedVectorDrawable2531Library" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
                 <option name="description" value="Installs the Debug build." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="installDebug" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Prepare com.android.support:support-v4:23.4.0" />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="prepareComAndroidSupportSupportV42340Library" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
@@ -720,11 +1207,6 @@
                 <option name="name" value="generateDebugAssets" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Prepare com.android.support:design:23.4.0" />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="prepareComAndroidSupportDesign2340Library" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
                 <option name="description" value="Displays all buildscript dependencies declared in root project 'FactsGenerator'." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="buildEnvironment" />
@@ -741,11 +1223,6 @@
                 <option name="description" value="Prints out all the source sets defined in this project." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="sourceSets" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Prepare com.android.support:recyclerview-v7:23.4.0" />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="prepareComAndroidSupportRecyclerviewV72340Library" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
@@ -766,6 +1243,10 @@
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="prepareDebugUnitTestDependencies" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="transformClassesWithShrinkResForRelease" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
@@ -812,6 +1293,11 @@
                 <option name="name" value="build" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
+                <option name="description" value="Prepare com.android.support:cardview-v7:25.3.1" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="prepareComAndroidSupportCardviewV72531Library" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
                 <option name="description" value="Assembles all Release builds." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="assembleRelease" />
@@ -854,6 +1340,10 @@
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="transformClassesAndResourcesWithProguardForRelease" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
                 <option name="name" value="validateSigningDebugAndroidTest" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
@@ -867,11 +1357,6 @@
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
                 <option name="name" value="processReleaseJavaRes" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Prepare com.android.support:support-vector-drawable:23.4.0" />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
-                <option name="name" value="prepareComAndroidSupportSupportVectorDrawable2340Library" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
@@ -897,6 +1382,11 @@
                 <option name="name" value="model" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
+                <option name="description" value="Prepare com.android.support:appcompat-v7:25.3.1" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="prepareComAndroidSupportAppcompatV72531Library" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
                 <option name="description" value="Displays the tasks runnable from project ':app'." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
                 <option name="name" value="tasks" />
@@ -908,6 +1398,16 @@
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
                 <option name="name" value="incrementalDebugJavaCompilationSafeguard" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Prepare com.android.support:support-media-compat:25.3.1" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="prepareComAndroidSupportSupportMediaCompat2531Library" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Prepare com.android.support:support-vector-drawable:25.3.1" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="prepareComAndroidSupportSupportVectorDrawable2531Library" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Runs all device checks using Device Providers and Test Servers." />
@@ -1001,6 +1501,16 @@
                 <option name="name" value="compileDebugUnitTestJavaWithJavac" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
+                <option name="description" value="Prepare com.android.support:support-core-utils:25.3.1" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="prepareComAndroidSupportSupportCoreUtils2531Library" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Prepare com.android.support:support-v4:25.3.1" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="prepareComAndroidSupportSupportV42531Library" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
                 <option name="name" value="transformResourcesWithMergeJavaResForReleaseUnitTest" />
               </ExternalTaskPojo>
@@ -1021,6 +1531,11 @@
                 <option name="name" value="processReleaseUnitTestJavaRes" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
+                <option name="description" value="Prepare com.android.support:design:25.3.1" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="prepareComAndroidSupportDesign2531Library" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
                 <option name="description" value="Uninstalls the Release build." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
                 <option name="name" value="uninstallRelease" />
@@ -1032,6 +1547,11 @@
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
                 <option name="name" value="mergeReleaseResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Prepare com.android.support:transition:25.3.1" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="prepareComAndroidSupportTransition2531Library" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
@@ -1077,11 +1597,6 @@
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
                 <option name="name" value="processReleaseManifest" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Prepare com.android.support:appcompat-v7:23.4.0" />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
-                <option name="name" value="prepareComAndroidSupportAppcompatV72340Library" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Uninstalls the android (on device) tests for the Debug build." />
@@ -1137,9 +1652,14 @@
                 <option name="name" value="mergeDebugAssets" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Prepare com.android.support:animated-vector-drawable:23.4.0" />
+                <option name="description" value="Prepare com.android.support:recyclerview-v7:25.3.1" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
-                <option name="name" value="prepareComAndroidSupportAnimatedVectorDrawable2340Library" />
+                <option name="name" value="prepareComAndroidSupportRecyclerviewV72531Library" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Prepare com.android.support:support-core-ui:25.3.1" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="prepareComAndroidSupportSupportCoreUi2531Library" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Runs all device checks on currently connected devices." />
@@ -1280,6 +1800,11 @@
                 <option name="name" value="preReleaseUnitTestBuild" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
+                <option name="description" value="Prepare com.android.support:support-fragment:25.3.1" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="prepareComAndroidSupportSupportFragment2531Library" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
                 <option name="name" value="generateDebugResValues" />
               </ExternalTaskPojo>
@@ -1287,6 +1812,11 @@
                 <option name="description" value="Runs all checks." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
                 <option name="name" value="check" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Prepare com.android.support:support-compat:25.3.1" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="prepareComAndroidSupportSupportCompat2531Library" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Run unit tests for the debug build." />
@@ -1307,14 +1837,14 @@
                 <option name="name" value="transformClassesWithDexForRelease" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
+                <option name="description" value="Prepare com.android.support:animated-vector-drawable:25.3.1" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="prepareComAndroidSupportAnimatedVectorDrawable2531Library" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
                 <option name="description" value="Installs the Debug build." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
                 <option name="name" value="installDebug" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Prepare com.android.support:support-v4:23.4.0" />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
-                <option name="name" value="prepareComAndroidSupportSupportV42340Library" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
@@ -1359,11 +1889,6 @@
                 <option name="name" value="generateDebugAssets" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Prepare com.android.support:design:23.4.0" />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
-                <option name="name" value="prepareComAndroidSupportDesign2340Library" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
                 <option name="description" value="Displays all buildscript dependencies declared in project ':app'." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
                 <option name="name" value="buildEnvironment" />
@@ -1380,11 +1905,6 @@
                 <option name="description" value="Prints out all the source sets defined in this project." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
                 <option name="name" value="sourceSets" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Prepare com.android.support:recyclerview-v7:23.4.0" />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
-                <option name="name" value="prepareComAndroidSupportRecyclerviewV72340Library" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
@@ -1405,6 +1925,10 @@
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
                 <option name="name" value="prepareDebugUnitTestDependencies" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="transformClassesWithShrinkResForRelease" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
@@ -1450,6 +1974,11 @@
                 <option name="description" value="Assembles and tests this project." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
                 <option name="name" value="build" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Prepare com.android.support:cardview-v7:25.3.1" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="prepareComAndroidSupportCardviewV72531Library" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Assembles all Release builds." />
@@ -1517,7 +2046,6 @@
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.build/gradle-api/2.2.3/9a45614f789d4aab624d2a61983263885f42b615/gradle-api-2.2.3.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.databinding/compilerCommon/2.2.3/aee7a865f76af8f91963ce3f8b3f62070f6eeeb/compilerCommon-2.2.3-sources.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.databinding/compilerCommon/2.2.3/8c3829022a54acd042b5382a4a873ee2d64c29ee/compilerCommon-2.2.3.jar" />
-                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/ow2/asm/asm/5.0.4/asm-5.0.4-sources.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/ow2/asm/asm/5.0.4/asm-5.0.4.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/ow2/asm/asm-commons/5.0.4/asm-commons-5.0.4.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/net/sf/proguard/proguard-gradle/5.2.1/proguard-gradle-5.2.1.jar" />
@@ -1613,7 +2141,6 @@
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.build/gradle-api/2.2.3/9a45614f789d4aab624d2a61983263885f42b615/gradle-api-2.2.3.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.databinding/compilerCommon/2.2.3/aee7a865f76af8f91963ce3f8b3f62070f6eeeb/compilerCommon-2.2.3-sources.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.databinding/compilerCommon/2.2.3/8c3829022a54acd042b5382a4a873ee2d64c29ee/compilerCommon-2.2.3.jar" />
-                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/ow2/asm/asm/5.0.4/asm-5.0.4-sources.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/ow2/asm/asm/5.0.4/asm-5.0.4.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/ow2/asm/asm-commons/5.0.4/asm-commons-5.0.4.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/net/sf/proguard/proguard-gradle/5.2.1/proguard-gradle-5.2.1.jar" />
@@ -1712,7 +2239,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/app/build.gradle" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/alex/alex/Joke.java" />
         <option value="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/alex/alex/FactCatalogue.java" />
@@ -1722,6 +2248,7 @@
         <option value="$PROJECT_DIR$/app/src/main/res/values/strings.xml" />
         <option value="$PROJECT_DIR$/app/src/main/res/values/colors.xml" />
         <option value="$PROJECT_DIR$/app/src/androidTest/java/com/alex/alex/ApplicationTest.java" />
+        <option value="$PROJECT_DIR$/app/build.gradle" />
       </list>
     </option>
   </component>
@@ -1731,16 +2258,7 @@
     <option name="width" value="1382" />
     <option name="height" value="744" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
-    <OptionsSetting value="true" id="Add" />
-    <OptionsSetting value="true" id="Remove" />
-    <OptionsSetting value="true" id="Checkout" />
-    <OptionsSetting value="true" id="Update" />
-    <OptionsSetting value="true" id="Status" />
-    <OptionsSetting value="true" id="Edit" />
-    <ConfirmationsSetting value="0" id="Add" />
-    <ConfirmationsSetting value="0" id="Remove" />
-  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="AndroidView" proportions="" version="1">
       <flattenPackages />
@@ -1756,10 +2274,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
-      <pane id="ProjectPane" />
       <pane id="AndroidView">
         <subPane>
           <PATH>
@@ -1767,15 +2281,9 @@
               <option name="myItemId" value="FactsGenerator" />
               <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
             </PATH_ELEMENT>
-          </PATH>
-          <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="FactsGenerator" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
+              <option name="myItemId" value="Gradle Scripts" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidBuildScriptsGroupNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
@@ -1785,69 +2293,15 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidSourceTypeNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="alex" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidPsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="FactsGenerator" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidSourceTypeNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="alex" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidPsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="FactsGenerator" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidSourceTypeNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="alex" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidPsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="FactsGenerator" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="manifests" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidManifestsGroupNode" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidModuleNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+      <pane id="ProjectPane" />
+      <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -1856,6 +2310,18 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
   </component>
   <component name="RunManager" selected="Android App.app">
     <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
@@ -1889,7 +2355,6 @@
       <option name="PM_INSTALL_OPTIONS" value="" />
       <option name="ACTIVITY_EXTRA_FLAGS" value="" />
       <option name="MODE" value="default_activity" />
-      <option name="PREFERRED_AVD" value="" />
       <option name="CLEAR_LOGCAT" value="false" />
       <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
       <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
@@ -1923,9 +2388,7 @@
         <option name="SHOW_OPTIMIZED_WARNING" value="true" />
       </Native>
       <Profilers>
-        <option name="ENABLE_ADVANCED_PROFILING" value="true" />
-        <option name="SUPPORT_LIB_ENABLED" value="true" />
-        <option name="INSTRUMENTATION_ENABLED" value="true" />
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
       </Profilers>
       <option name="DEEP_LINK" value="" />
       <option name="ACTIVITY_CLASS" value="" />
@@ -1939,7 +2402,6 @@
       <option name="CLASS_NAME" value="" />
       <option name="PACKAGE_NAME" value="" />
       <option name="EXTRA_OPTIONS" value="" />
-      <option name="PREFERRED_AVD" value="" />
       <option name="CLEAR_LOGCAT" value="false" />
       <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
       <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
@@ -1973,9 +2435,7 @@
         <option name="SHOW_OPTIMIZED_WARNING" value="true" />
       </Native>
       <Profilers>
-        <option name="ENABLE_ADVANCED_PROFILING" value="true" />
-        <option name="SUPPORT_LIB_ENABLED" value="true" />
-        <option name="INSTRUMENTATION_ENABLED" value="true" />
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
       </Profilers>
       <method />
     </configuration>
@@ -1994,6 +2454,17 @@
       <envs />
       <method />
     </configuration>
+    <configuration default="true" type="BashConfigurationType" factoryName="Bash">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="INTERPRETER_PATH" value="C:\WINDOWS\system32\bash.exe" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
     <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -2008,6 +2479,27 @@
         </option>
         <option name="vmOptions" />
       </ExternalSystemSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
       <method />
     </configuration>
     <configuration default="true" type="JarApplication" factoryName="JAR Application">
@@ -2067,34 +2559,6 @@
       <listeners />
       <method />
     </configuration>
-    <configuration default="true" type="TestNGTestDiscovery" factoryName="TestNG Test Discovery" changeList="All">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
-      <option name="GROUP_NAME" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <option name="VM_PARAMETERS" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="OUTPUT_DIRECTORY" />
-      <option name="ANNOTATION_TYPE" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <option name="USE_DEFAULT_REPORTERS" value="false" />
-      <option name="PROPERTIES_FILE" />
-      <envs />
-      <properties />
-      <listeners />
-      <method />
-    </configuration>
     <configuration default="false" name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
       <module name="app" />
       <option name="DEPLOY" value="true" />
@@ -2102,7 +2566,6 @@
       <option name="PM_INSTALL_OPTIONS" value="" />
       <option name="ACTIVITY_EXTRA_FLAGS" value="" />
       <option name="MODE" value="default_activity" />
-      <option name="PREFERRED_AVD" value="" />
       <option name="CLEAR_LOGCAT" value="false" />
       <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
       <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
@@ -2136,9 +2599,7 @@
         <option name="SHOW_OPTIMIZED_WARNING" value="true" />
       </Native>
       <Profilers>
-        <option name="ENABLE_ADVANCED_PROFILING" value="true" />
-        <option name="SUPPORT_LIB_ENABLED" value="true" />
-        <option name="INSTRUMENTATION_ENABLED" value="true" />
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
       </Profilers>
       <option name="DEEP_LINK" value="" />
       <option name="ACTIVITY_CLASS" value="" />
@@ -2181,35 +2642,40 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
+      <window_info id="Android Profiler" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32935154" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32935154" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Android Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5017065" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31996974" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32764506" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Logcat" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24962178" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Android Model" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Device File Explorer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3993174" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Android Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5017065" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24962178" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Android Model" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31996974" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32935154" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -2230,79 +2696,12 @@
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-      <provider selected="true" editor-type-id="android-designer2">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/strings.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/style.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="51" selection-start-line="7" selection-start-column="51" selection-end-line="7" selection-end-column="51" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/colors.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="38" selection-start-line="14" selection-start-column="38" selection-end-line="14" selection-end-column="38" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/alex/alex/Fact.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/alex/alex/FactCatalogue.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="25" column="0" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/alex/alex/MainActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="884">
-          <caret line="61" column="9" selection-start-line="61" selection-start-column="9" selection-end-line="61" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1428">
-          <caret line="84" column="0" selection-start-line="84" selection-start-column="0" selection-end-line="84" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
       <provider editor-type-id="android-designer2">
         <state />
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/colors.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="43" selection-start-line="10" selection-start-column="43" selection-end-line="10" selection-end-column="43" />
+        <state relative-caret-position="374">
+          <caret line="22" column="10" lean-forward="false" selection-start-line="22" selection-start-column="10" selection-end-line="22" selection-end-column="10" />
           <folding />
         </state>
       </provider>
@@ -2310,116 +2709,84 @@
     <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
-          <caret line="9" column="34" selection-start-line="9" selection-start-column="34" selection-end-line="9" selection-end-column="34" />
+          <caret line="9" column="34" lean-forward="false" selection-start-line="9" selection-start-column="34" selection-end-line="9" selection-end-column="34" />
           <folding />
         </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="23" column="14" selection-start-line="23" selection-start-column="14" selection-end-line="23" selection-end-column="14" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" column="31" selection-start-line="21" selection-start-column="31" selection-end-line="21" selection-end-column="31" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/dimens.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/style.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="51" selection-start-line="7" selection-start-column="51" selection-end-line="7" selection-end-column="51" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/strings.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/colors.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="38" selection-start-line="14" selection-start-column="38" selection-end-line="14" selection-end-column="38" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="22" column="10" selection-start-line="22" selection-start-column="10" selection-end-line="22" selection-end-column="10" />
-          <folding />
-        </state>
-      </provider>
-      <provider editor-type-id="android-designer2">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="34" selection-start-line="9" selection-start-column="34" selection-end-line="9" selection-end-column="34" />
-          <folding />
-        </state>
-      </provider>
-      <provider editor-type-id="android-manifest">
-        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/alex/alex/Fact.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
-          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-          <folding />
+          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding>
+            <element signature="e#232#233#0" expanded="false" />
+            <element signature="e#260#261#0" expanded="false" />
+            <element signature="e#302#303#0" expanded="false" />
+            <element signature="e#336#337#0" expanded="false" />
+            <element signature="e#367#368#0" expanded="false" />
+            <element signature="e#394#395#0" expanded="false" />
+            <element signature="e#434#435#0" expanded="false" />
+            <element signature="e#466#467#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/alex/alex/FactCatalogue.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding />
+          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/alex/alex/MainActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="36" column="0" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="459">
+          <caret line="36" column="0" lean-forward="false" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#1255#1256#0" expanded="false" />
+            <element signature="e#1317#1318#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/alex/alex/search.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding />
+          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/androidTest/java/com/alex/alex/ApplicationTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
-          <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#203#204#0" expanded="false" />
+            <element signature="e#243#244#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/colors.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="38" lean-forward="false" selection-start-line="14" selection-start-column="38" selection-end-line="14" selection-end-column="38" />
           <folding />
         </state>
       </provider>
@@ -2427,7 +2794,254 @@
     <entry file="file://$PROJECT_DIR$/app/src/test/java/com/alex/alex/ExampleUnitTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
+      <provider selected="true" editor-type-id="android-designer2">
+        <state />
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/style.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="51" lean-forward="false" selection-start-line="7" selection-start-column="51" selection-end-line="7" selection-end-column="51" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/colors.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="38" lean-forward="false" selection-start-line="14" selection-start-column="38" selection-end-line="14" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/alex/alex/Fact.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding>
+            <element signature="e#232#233#0" expanded="false" />
+            <element signature="e#260#261#0" expanded="false" />
+            <element signature="e#302#303#0" expanded="false" />
+            <element signature="e#336#337#0" expanded="false" />
+            <element signature="e#367#368#0" expanded="false" />
+            <element signature="e#394#395#0" expanded="false" />
+            <element signature="e#434#435#0" expanded="false" />
+            <element signature="e#466#467#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/alex/alex/FactCatalogue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="25" column="0" lean-forward="false" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/alex/alex/MainActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="884">
+          <caret line="61" column="9" lean-forward="false" selection-start-line="61" selection-start-column="9" selection-end-line="61" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#1255#1256#0" expanded="false" />
+            <element signature="e#1317#1318#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
+      <provider editor-type-id="android-designer2">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1428">
+          <caret line="84" column="0" lean-forward="false" selection-start-line="84" selection-start-column="0" selection-end-line="84" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/colors.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="43" lean-forward="false" selection-start-line="10" selection-start-column="43" selection-end-line="10" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="34" lean-forward="false" selection-start-line="9" selection-start-column="34" selection-end-line="9" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/dimens.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/style.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="51" lean-forward="false" selection-start-line="7" selection-start-column="51" selection-end-line="7" selection-end-column="51" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/colors.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="38" lean-forward="false" selection-start-line="14" selection-start-column="38" selection-end-line="14" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
+      <provider editor-type-id="android-designer2">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="10" lean-forward="false" selection-start-line="22" selection-start-column="10" selection-end-line="22" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
+      <provider editor-type-id="android-manifest">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="34" lean-forward="false" selection-start-line="9" selection-start-column="34" selection-end-line="9" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/alex/alex/Fact.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding>
+            <element signature="e#232#233#0" expanded="false" />
+            <element signature="e#260#261#0" expanded="false" />
+            <element signature="e#302#303#0" expanded="false" />
+            <element signature="e#336#337#0" expanded="false" />
+            <element signature="e#367#368#0" expanded="false" />
+            <element signature="e#394#395#0" expanded="false" />
+            <element signature="e#434#435#0" expanded="false" />
+            <element signature="e#466#467#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/alex/alex/FactCatalogue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/alex/alex/MainActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="36" column="0" lean-forward="false" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#1255#1256#0" expanded="false" />
+            <element signature="e#1317#1318#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/alex/alex/search.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/androidTest/java/com/alex/alex/ApplicationTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#203#204#0" expanded="false" />
+            <element signature="e#243#244#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/test/java/com/alex/alex/ExampleUnitTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="11" column="1" lean-forward="false" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/local.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="31" lean-forward="false" selection-start-line="21" selection-start-column="31" selection-end-line="21" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="32" lean-forward="true" selection-start-line="20" selection-start-column="32" selection-end-line="20" selection-end-column="32" />
           <folding />
         </state>
       </provider>

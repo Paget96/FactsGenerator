@@ -3,7 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/FactsGenerator.iml" filepath="$PROJECT_DIR$/FactsGenerator.iml" />
-      <module fileurl="file://$PROJECT_DIR$/JokeGenerator.iml" filepath="$PROJECT_DIR$/JokeGenerator.iml" />
+      <module fileurl="file://C:\Users\Paget96\StudioProjects\FactsGenerator\JokeGenerator.iml" filepath="C:\Users\Paget96\StudioProjects\FactsGenerator\JokeGenerator.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
